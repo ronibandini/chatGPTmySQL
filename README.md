@@ -7,7 +7,8 @@ Para este ejemplo voy a conectar una base de datos mysql con productos para el c
 1. Obtener un API key de openAI
 2. Crear un asistente
 3. Configurar la definición del function calling
-4. Editar los settings del script Python
+4. Crear la estructura de la base mySQL y cargar registros
+5. Editar los settings del script Python
 
 # Function Calling
 
